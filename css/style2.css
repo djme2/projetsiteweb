@@ -1,0 +1,27 @@
+.ban img {
+    width: 100%;
+    max-width: 100%;
+   margin-left: -1%;
+    margin-right: -100%;
+}
+
+body{
+    margin-left: -1%;
+    margin-right: -5%;
+}
+.ban {
+    width: 100%;
+    max-width: 100%;
+    margin-left: -2%;
+    background-image: url('../img/collage-paysage-magique.jpg');}
+
+
+.form {
+    margin-left: 1%;
+    margin-right: 1%;
+
+}
+h3 {
+    color: #ba1c1c;
+}
+
